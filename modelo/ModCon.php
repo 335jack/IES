@@ -3,7 +3,7 @@
 class ModCon{
 	private $conexion;
 public function conectar(){
-$servidor="192.168.100.39:8000";
+$servidor="localhost";
  $usuario="root";
  $clave="335@Thanos";
  $database="Sifaj";
